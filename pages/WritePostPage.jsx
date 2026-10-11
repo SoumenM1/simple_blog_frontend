@@ -33,6 +33,14 @@ const CATEGORIES = [
   "Education",
   "Productivity",
   "Personal Growth",
+  "Design",
+  "Health & Wellness",
+  "Food & Cooking",
+  "Finance",
+  "Science",
+  "Entertainment",
+  "Sports",
+  "Politics",
 ];
 
 export default function WritePostPage() {
