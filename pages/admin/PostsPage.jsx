@@ -460,14 +460,14 @@ export default function PostsPage() {
                             <Eye size={16} />
                           </Link>
 
-                          <Link
+                          {/* <Link
                             to={`/write?edit=${post.id}`}
                             title="Edit article"
                             aria-label={`Edit ${post.title}`}
                             className="rounded-lg border border-slate-200 p-2 text-slate-500 transition hover:bg-slate-100 hover:text-slate-900"
                           >
                             <ExternalLink size={16} />
-                          </Link>
+                          </Link> */}
 
                           <button
                             type="button"
